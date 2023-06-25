@@ -25,7 +25,7 @@ Users should be able to:
 ![Desktiop](./screenshots/desktop.png)
 
 ### Links
-- Live Site URL: [Result summary Challenge by Mystiuk] (https://)
+- Live Site URL: [Result summary Challenge by Mystiuk] (https://mystiuk.github.io/Age-Calculator-Challenge-by-Mystiuk/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Dmytro Mystiuk]([https://www.your-site.com](https://www.linkedin.com/in/dmytro-mystiuk-404a3a206/))
+- LinkedIn - [Dmytro Mystiuk](https://www.linkedin.com/in/dmytro-mystiuk-404a3a206/)
 - Frontend Mentor - [@Mystiuk]()
 
